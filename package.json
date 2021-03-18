@@ -1,0 +1,13 @@
+{
+  "name": "sample-infra-v2",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test target\"",
+    "server": "$NODE bin/server.js"
+  },
+  "author": "",
+  "license": "GPLv3",
+  "dependencies": {}
+}
